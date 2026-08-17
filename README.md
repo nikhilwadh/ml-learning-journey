@@ -1,12 +1,15 @@
 ## Progress
 
-- Day 1 — End-to-End ML Project
-- Day 2 — EDA
-- Day 3 — Web Scraping
-- Day 4 — Pandas Profiling
-- Day 5–6 — Feature Engineering
-- Day 7 — Column Transformer
-- Day 8–9 — Machine Learning Pipelines
-- Day 10 — Function Transformer
+- End-to-End ML Project
+- EDA
+- Web Scraping
+- Pandas Profiling
+- Feature Engineering
+- Column Transformer
+- Machine Learning Pipelines
+  - Without Pipeline
+  - Using Pipeline
+- Function Transformer
+- Binning & Binarization
 
 Currently following CampusX 100 Days of ML.
